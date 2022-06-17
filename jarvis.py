@@ -80,9 +80,6 @@ if __name__ == "__main__":
             print("im fine")    
             speak("im fine")
 
-        elif 'play among us' in query:
-            print("sharam karke kuch padle exams nazdeek aarahe hai")   
-            speak("sharam karke kuch padle exams nazdeek aarahe hai") 
 
         
         
